@@ -1,4 +1,4 @@
-# nvidia-etl-pipeline
+# nvidia-gpu-sales-analysis
 <br>
 A Python-based ETL pipeline that extracts, cleans, transforms, and loads NVIDIA GPU sales data into a MySQL database for analysis and reporting.
 
