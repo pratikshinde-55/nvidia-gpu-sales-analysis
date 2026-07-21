@@ -99,7 +99,7 @@ Generated insights to support:
 * Jupyter Notebook
 * Git
 * GitHub
-
+  
 ---
 
 ## Project Folder structure 
